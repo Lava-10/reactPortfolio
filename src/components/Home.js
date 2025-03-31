@@ -11,10 +11,9 @@ const Home = () => {
           <br />
           I'm <span className="home__title-color">Lava Kumar Reddy</span>
           <br />
-        
         </h1>
         <a
-          href="https://drive.google.com/file/d/1YhH7KMBBEazTTOuG82di8uxf9YDkpI0R/view?usp=drive_link"
+          href="https://drive.google.com/drive/folders/1JHRRa4PnRwJybmSBTi2xsZKMFfL17igQ?usp=sharing"
           target="_blank"
           rel="noreferrer"
           className="button"
@@ -23,13 +22,28 @@ const Home = () => {
         </a>
       </div>
       <div className="home__social">
-        <a href="https://www.linkedin.com/in/lavakumarreddy18/" className="home__social-icon">
+        <a 
+          href="https://www.linkedin.com/in/lavakumarreddy18/" 
+          target="_blank"
+          rel="noreferrer"
+          className="home__social-icon"
+        >
           <i className="bx bxl-linkedin"></i>
         </a>
-        <a href="https://leetcode.com/u/Lava_10/" className="home__social-icon">
+        <a 
+          href="https://leetcode.com/u/Lava_10/" 
+          target="_blank"
+          rel="noreferrer"
+          className="home__social-icon"
+        >
           <i className="bx bx-code"></i>
         </a>
-        <a href="https://github.com/Lava-10" className="home__social-icon">
+        <a 
+          href="https://github.com/Lava-10" 
+          target="_blank"
+          rel="noreferrer"
+          className="home__social-icon"
+        >
           <i className="bx bxl-github"></i>
         </a>
       </div>

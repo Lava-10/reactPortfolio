@@ -6,7 +6,7 @@ import queryCraftLogo from '../assets/img/queryCraftLogo.jpg';
 
 const Projects = () => {
   return (
-    <section className="work section" id="blog">
+    <section className="work section" id="Project">
       <h2 className="section-title">My Latest Projects</h2>
       <div className="container">
         <div className="grid">

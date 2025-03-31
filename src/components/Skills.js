@@ -24,7 +24,7 @@ import gitLogo from '../assets/img/git_logo.png';
 import githubLogo from '../assets/img/github_logo.png';
 import mavenLogo from '../assets/img/maven_logo.png';
 
-import professionalSkillsGif from '../assets/img/professional_skills.gif';
+import professionalSkillsGif from '../assets/img/gif1.gif';
 
 const Skills = () => {
   // Define a common style for spacing the images
@@ -35,7 +35,7 @@ const Skills = () => {
       <h2 className="section-title">Skills</h2>
       <div className="skills__container bd-grid">
         <div>
-          <p className="skills__text">Take a look at some of the things I love working on.</p>
+          <p className="skills__text">Take a look at some of the technologies I have worked on:</p>
           
           {/* Languages Section */}
           <div className="skills__data">

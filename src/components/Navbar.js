@@ -75,8 +75,8 @@ const Navbar = () => {
             </li>
             <li className="nav__item">
               <a
-                href="#blog"
-                className={`nav__link ${activeSection === 'blog' ? 'active' : ''}`}
+                href="#Project"
+                className={`nav__link ${activeSection === 'Project' ? 'active' : ''}`}
                 onClick={() => setMenuOpen(false)}
               >
                 Projects

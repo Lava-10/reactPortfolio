@@ -12,10 +12,20 @@ const Certifications = () => {
     <section className="work section" id="work">
       <h2 className="section-title">Certificates</h2>
       <div className="work__container bd-grid">
-        <a href="https://www.coursera.org/account/accomplishments/verify/VF659EJ6AHX7" className="work__img">
+        <a 
+          href="https://www.coursera.org/account/accomplishments/verify/VF659EJ6AHX7" 
+          className="work__img"
+          target="_blank" 
+          rel="noreferrer"
+        >
           <img src={cert1} alt="Certification 1" />
         </a>
-        <a href="https://www.coursera.org/account/accomplishments/verify/4XWSU8CE68FB" className="work__img">
+        <a 
+          href="https://www.coursera.org/account/accomplishments/verify/4XWSU8CE68FB" 
+          className="work__img"
+          target="_blank" 
+          rel="noreferrer"
+        >
           <img src={cert2} alt="Certification 2" />
         </a>
         <a
@@ -34,7 +44,12 @@ const Certifications = () => {
         >
           <img src={cert4} alt="Certification 4" />
         </a>
-        <a href="https://www.coursera.org/account/accomplishments/verify/GBE736PNDXV3" className="work__img">
+        <a 
+          href="https://www.coursera.org/account/accomplishments/verify/GBE736PNDXV3" 
+          className="work__img"
+          target="_blank" 
+          rel="noreferrer"
+        >
           <img src={cert5} alt="Certification 5" />
         </a>
         <a

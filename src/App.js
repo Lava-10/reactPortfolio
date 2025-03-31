@@ -41,13 +41,13 @@ function App() {
       <footer className="footer">
         <p className="footer__title">Lava Kumar Reddy</p>
         <div className="footer__social">
-          <a href="#" className="footer__icon">
-            <i className="bx bxl-facebook"></i>
-          </a>
-          <a href="#" className="footer__icon">
+          
+          <a href="https://www.instagram.com/lava_1955/" target="_blank"
+          rel="noreferrer" className="footer__icon">
             <i className="bx bxl-instagram"></i>
           </a>
-          <a href="#" className="footer__icon">
+          <a href="https://x.com/LavaX1818" target="_blank"
+          rel="noreferrer" className="footer__icon">
             <i className="bx bxl-twitter"></i>
           </a>
         </div>
