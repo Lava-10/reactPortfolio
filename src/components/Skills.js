@@ -128,6 +128,13 @@ const Skills = () => {
             </div>
             <div className="skills__bar skills__html"></div>
           </div>
+
+          {/* Motto Section */}
+          <p className="skills__motto">
+            <strong>
+              Motto: I really believe I can adapt to and work with any technology. If I encounter obstacles, I'll leverage AI tools and thoroughly explore documentation to quickly learn and overcome any challenges.
+            </strong>
+          </p>
         </div>
         <div>
           <img src={professionalSkillsGif} alt="Professional Skills" className="skills__img" />
