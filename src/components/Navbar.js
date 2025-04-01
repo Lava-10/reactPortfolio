@@ -31,7 +31,7 @@ const Navbar = () => {
     <header className="l-header">
       <nav className="nav bd-grid">
         <div>
-          <a href="#" className="nav__logo">
+          <a href="#home" className="nav__logo">
             Portfolio
           </a>
         </div>

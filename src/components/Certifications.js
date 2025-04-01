@@ -29,7 +29,7 @@ const Certifications = () => {
           <img src={cert2} alt="Certification 2" />
         </a>
         <a
-          href=""
+          href="https://www.udemy.com/certificate/UC-d88fe2b0-2cb2-4714-8c29-7dc857b009a8/"
           className="work__img"
           target="_blank"
           rel="noreferrer"
