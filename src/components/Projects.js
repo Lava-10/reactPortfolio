@@ -55,7 +55,7 @@ const Projects = () => {
             <div className="card_body">
               <h2 className="card_title">queryCraft</h2>
               <p>
-              Visualizing the entire SQL query execution pipeline.
+              Visualizing the entire SQL query execution pipeline and understand what happens when a SQL query is being executed.
               </p>
               <a
                 href="https://github.com/Lava-10/queryCraft"
